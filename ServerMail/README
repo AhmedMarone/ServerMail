@@ -1,0 +1,40 @@
+# SERVERMAIL
+
+**Discord Server Mail Bot**
+
+*Description*
+
+This Discord bot allows users with appropriate permissions to send personalized private messages with embedded server details to specific users within the server.
+
+**Features**
+
+*Server Mail*: Send a customized private message with an embedded server description.
+*Permission Control*: Only users with administrative permissions or the server owner can execute this command.
+
+**Installation and Setup**
+To set up this bot, follow these steps:
+
+1-Clone this repository to your local machine.
+2-Install the required dependencies using pip install -r requirements.txt.
+3-Obtain your Discord bot token from the Discord Developer Portal.
+4-Replace "Token here" in the last line of the code with your bot token.
+5-Run the bot script.
+
+**Usage**
+
+1-Invite the bot to your Discord server.
+2-Ensure the bot has appropriate permissions to perform actions like sending messages and viewing server details.
+3-Use the /servermail command followed by the user's mention and the message content to send a private message with embedded server details to the specified user.
+
+**Requirements**
+
+Python 3.6+
+discord.py library
+
+**Credits**
+
+This bot was developed by [AmedMarone].
+
+**Follow me**
+Twitter:https://twitter.com/AmedMarone
+YouTube: @MaroneOpenSource
